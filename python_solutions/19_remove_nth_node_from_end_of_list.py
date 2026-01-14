@@ -1,7 +1,8 @@
 ''' ***********************************************************************************************
     * Title: 19. Remove Nth Node From End of List
     * Difficulty: Medium
-    * Description: 
+    * Description: Given the head of a linked list, remove the nth node from the end of the list
+    * and return its head.
     * Source: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
     *
     * Verdict: A relatively simple problem overall, the only area I found tricky was handling lists
